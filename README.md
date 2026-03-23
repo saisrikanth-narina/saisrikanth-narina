@@ -2,7 +2,7 @@
 
 Senior Software Engineer | Java · Spring Boot · Kafka · React · AWS
 
-🏢 Currently: Senior Software Engineer @ Verizon, Irving TX
+🏢 Currently: Senior Software Engineer
 🎓 MS Computer Science — University of Central Missouri
 📍 Irving, TX | H1B Transfer Ready | Open to Work
 
